@@ -6,7 +6,7 @@
   
 <h2>My Blog 😎</h2> 
 <h5>
- ✨ https://velog.io/@minskim2/posts✨
+ ✨https://velog.io/@minskim2/posts
 </h5>
 <br/>
 
