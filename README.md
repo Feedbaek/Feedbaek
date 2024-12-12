@@ -1,5 +1,13 @@
+<div align=center>
+  
 # Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFeedbaek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Feedbaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feedbaek)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+  
+<h2>My Blog 😎</h2> 
+<h5>
+ ✨https://velog.io/@minskim2/posts✨
+</h5>
 <br/>
 
 ## Skills
@@ -12,13 +20,19 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<br/>
 
 ## Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=nicek789)](https://solved.ac/nicek789)
 <br/>
 
+
 ## IDE
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<br/>
+
+</div>
+
 <!--
 **Feedbaek/Feedbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
