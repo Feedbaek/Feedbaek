@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=008000&height=150&section=header&text="끝까지_가면_내가_이김"&fontColor=ffffff&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=008000&height=150&section=header&text="끝까지%20가면%20내가%20이김"&fontColor=ffffff&fontSize=50&animation=fadeIn)
   
 # Hi there 👋
 [![Feedbaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feedbaek)](https://github.com/anuraghazra/github-readme-stats)
